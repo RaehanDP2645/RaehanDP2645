@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello there, Raehan's here 👋
 
 <!--
 **RaehanDP2645/RaehanDP2645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning [**Node.js**](https://nodejs.org/id)
