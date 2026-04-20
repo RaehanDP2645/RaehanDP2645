@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![waifu guehhh...](img/github-header-banner.webp)
 - 🌱 I’m currently learning [**Node.js**](https://nodejs.org/id)
