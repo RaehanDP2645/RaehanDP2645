@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="123" src="gif/Anime Girl GIF.gif"  />
+<img align="right" src="gif/Anime%20Girl%20GIF.gif" width="123"/>
 
 ###
 
