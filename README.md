@@ -11,6 +11,10 @@ learn everything...
 <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=raehandp2645.raehandp2645&"  />
+</div>
+
 ---
 
 ### 💻 Tech Stack
@@ -27,7 +31,7 @@ learn everything...
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raehandp2645&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-<img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=raehandp2645&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ---
