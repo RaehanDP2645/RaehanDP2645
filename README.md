@@ -1,44 +1,62 @@
-<h2 align="left">Hi 👋! Raehan's here, Welcome to my Github</h2>
 
-###
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Raehan%20Dhya%20Putra&fontSize=50&fontColor=fff&animation=fadeIn)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raehandp2645&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raehandp2645&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+### Web Developer | Indonesia
+
+learn everything...
+
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
+---
 
-<img align="right" width="123" alt="Image" src="https://github.com/user-attachments/assets/37fd5686-400a-4b4a-9a63-1fa4e696a489" />
+### 💻 Tech Stack
 
-###
+![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white) ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![c++](https://img.shields.io/badge/c%2B%2B-333?style=for-the-badge&logo=c++&logoColor=white) ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+ ### 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raehandp2645&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raehandp2645&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+<img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+---
+
+### 🌱 Currently
+
+- 📚 Learning: **node.js**
+
+---
+
+### 📫 Let's Connect
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="cplusplus logo"  />
+
+<!-- [![My Website](https://img.shields.io/badge/My%20website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raehandp45.my.id/) -->
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/reydp45) [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raehandp11)
+
 </div>
 
-###
+<!-- ---
 
-<div align="left">
-  <a href="https://instagram.com/raehandp11" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=raehandp11&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+### 💖 Support My Work
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raehandp45)
+
+--- -->
+
+<div align="center">
+
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/raehandp2645/raehandp2645/output/snake.svg" alt="Snake animation" />
-
-###
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
