@@ -21,19 +21,6 @@ learn everything...
 
 ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white) ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![c++](https://img.shields.io/badge/c%2B%2B-333?style=for-the-badge&logo=c++&logoColor=white) ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
- ### 📈 GitHub Stats
-
-<div align="center">
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raehandp2645&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raehandp2645&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117) -->
-
-<img src="https://streak-stats.demolab.com?user=raehandp2645&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
 ---
 
 ### 🌱 Currently
@@ -51,18 +38,27 @@ learn everything...
 
 </div>
 
-<!-- ---
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raehandp2645&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raehandp2645&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117) -->
+
+<img src="https://streak-stats.demolab.com?user=raehandp2645&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<!-- 
+---
 
 ### 💖 Support My Work
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raehandp45)
 
---- -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raehandp2645/raehandp2645/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raehandp2645/raehandp2645/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raehandp2645/raehandp2645/output/pacman-contribution-graph.svg">
-</picture>
+--- 
+-->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
