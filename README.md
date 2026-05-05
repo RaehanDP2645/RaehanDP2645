@@ -27,9 +27,9 @@ learn everything...
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raehandp2645&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raehandp2645&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raehandp2645&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raehandp2645&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117) -->
 
 <img src="https://streak-stats.demolab.com?user=raehandp2645&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
@@ -59,8 +59,10 @@ learn everything...
 
 --- -->
 
-<div align="center">
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raehandp2645/raehandp2645/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raehandp2645/raehandp2645/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raehandp2645/raehandp2645/output/pacman-contribution-graph.svg">
+</picture>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
