@@ -38,7 +38,7 @@
 
 ### 📈 GitHub Stats
 
-<table border="0">
+<table style="border-collapse: collapse; border: none;">
   <tr style="border:none; outline:none; box-shadow:none;">
   <td style="border:none; outline:none box-shadow:none;" valign="top" width="50%" height="50%">
   <!-- Github statistic -->
