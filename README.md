@@ -38,8 +38,8 @@
 
 ### 📈 GitHub Stats
 
-<table>
-  <tr>
+<table style="border:none; outline:none; box-shadow:none;">
+  <tr style="border:none; outline:none; box-shadow:none;">
   <td style="border:none; outline:none box-shadow:none;" valign="top" width="50%" height="50%">
   <!-- Github statistic -->
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raehandp2645&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Github Statistic"/><br>
