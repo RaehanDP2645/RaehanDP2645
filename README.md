@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Web Developer | Indonesia
+### Web Developer
 
 learn everything...
 
@@ -39,6 +39,21 @@ learn everything...
 </div>
 
 ---
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rasyidinazhari&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <br></br>
+
+</td>
+
+</tr>
+</table>
+---
+
+---
 
 ### 📈 GitHub Stats
 
@@ -49,6 +64,9 @@ learn everything...
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raehandp2645&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117) -->
 
 <img src="https://streak-stats.demolab.com?user=raehandp2645&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raehandp2645&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
 </div>
 
 <!-- 
