@@ -37,7 +37,14 @@
 ---
 
 ### 📈 GitHub Stats
-
+<style>
+  .markdown-body table th, .markdown-body table td
+Specificity: (0,1,2)
+ {
+    border: 0px solid var(--borderColor-default, var(--color-border-default));
+    padding: 6px 13px;
+}
+</style>
 <table>
   <tr>
   <td style="border: none;" valign="top" width="50%" height="50%">
