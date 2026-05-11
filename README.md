@@ -44,7 +44,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=raehandp2645&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img src="https://streak-stats.demolab.com?user=raehandp2645&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3"/>
   </td>
-  <td valign="top" width="50%">
+  <td valign="top" width="100%" height="100%">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raehandp2645&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
   </tr>
