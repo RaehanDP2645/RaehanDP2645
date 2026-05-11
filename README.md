@@ -42,26 +42,22 @@ learn everything...
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<table>
+  <tr>
+  <td style="border: none;" valign="top" width="50%" height="50%">
+  <!-- Github statistic -->
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raehandp2645&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Github Statistic"/><br>
+  <!-- Github streak -->
+  <img align="center" src="https://streak-stats.demolab.com?user=raehandp2645&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph"/>
+  </td>
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raehandp2645&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raehandp2645&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117) -->
-
-
-<table align="center">
-<td align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raehandp2645&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <br></br>
-
-</td>
-<td align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raehandp2645&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-</td>
+  <td style="border: none;" zalign="top" width="50%">
+  <!-- Github language -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raehandp2645&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+  </tr>
 </table>
-<img src="https://streak-stats.demolab.com?user=raehandp2645&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
 
 <!-- 
 ---
