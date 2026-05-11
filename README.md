@@ -38,18 +38,19 @@
 
 ### 📈 GitHub Stats
 
-<table>
+<table cellpadding="10" cellspacing="0">
   <tr>
   <td valign="top" width="50%" height="50%">
   <!-- Github statistic -->
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raehandp2645&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Github Statistic"/>
+  <br/><br/>
   <!-- Github streak -->
   <img align="center" src="https://streak-stats.demolab.com?user=raehandp2645&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph"/>
   </td>
 
-  <td valign="top" width="100%">
+  <td valign="center" width="100%">
   <!-- Github language -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raehandp2645&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raehandp2645&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact"/>
   </td>
   </tr>
 </table>
