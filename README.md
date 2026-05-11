@@ -1,18 +1,19 @@
-
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Raehan%20Dhya%20Putra&fontSize=50&fontColor=fff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Raehan%20Dhya%20Putra&fontSize=50&fontColor=fff&animation=fadeIn&desc=Web%20Developer%20%7C%20Indonesia&descSize=20&descAlignY=55&fontAlignY=30)
 
 <div align="center">
-
-### Web Developer
-
-learn everything...
-
-<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</div>
+<div align="center">
+<b><q>
+learn everything
+</q></b>
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=raehandp2645.raehandp2645&"  />
+  <!-- visitor (fake) -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=raehandp2645.raehandp2645&"/>
+  <!-- Profile views (real)
+  <img src="https://komarev.com/ghpvc/?username=raehandp2645&label=Profile%20views&color=0e75b6&style=flat" alt="raehandp2645" /> -->
 </div>
 
 ---
@@ -25,7 +26,7 @@ learn everything...
 
 ### 🌱 Currently
 
-- 📚 Learning: **node.js**
+- 📚 Learning: **Node.js, PHP, Go**
 
 ---
 
@@ -69,4 +70,4 @@ learn everything...
 --- 
 -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=150&section=footer)
