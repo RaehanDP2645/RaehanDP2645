@@ -38,15 +38,14 @@
 
 ### 📈 GitHub Stats
 
-<table border="0" cellspacing="0" cellpadding="10" style="border:none;">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-  <td border="0" style="border:none;" valign="top" width="50%">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raehandp2645&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Github Statistic"/>
-  <img align="center" src="https://streak-stats.demolab.com?user=raehandp2645&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph"/>
+  <td valign="top" width="50%">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=raehandp2645&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=raehandp2645&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3"/>
   </td>
-
-  <td border="0" style="border:none;" valign="top" width="50%">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raehandp2645&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <td valign="top" width="50%">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raehandp2645&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
   </tr>
 </table>
