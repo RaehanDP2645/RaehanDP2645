@@ -50,7 +50,7 @@
 
   <td valign="center" width="100%">
   <!-- Github language -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raehandp2645&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raehandp2645&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
   </tr>
 </table>
