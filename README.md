@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Raehan%20Dhya%20Putra&fontSize=50&fontColor=fff&animation=fadeIn&desc=Web%20Developer%20%7C%20Indonesia&descSize=20&descAlignY=55&fontAlignY=30)
 
 <div align="center">
-<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+<img height="150" src="gif/coding_rr.gif"/>
 </div>
 
 <div align="center">
